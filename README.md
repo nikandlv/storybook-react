@@ -22,3 +22,13 @@
   "module": "lib/Test.js"
 }
 ```
+
+## Scripts
+
+`start` Start the development server
+
+`build` Build everything
+
+`predeploy` Build before deploy
+
+`deploy` deploy to github pages
