@@ -26,13 +26,7 @@
 		"deploy": "gh-pages -d dist"
 	},
 	"dependencies": {
-		"@material-ui/core": "^4.3.2",
-		"@material-ui/icons": "^4.2.1",
-		"@material-ui/styles": "^4.3.0",
-		"prop-types": "^15.6.2",
-		"react-color": "^2.17.3",
-		"react-mui-android-notification": "^2.0.1",
-		"react-transition-group": "^4.2.2"
+		"prop-types": "^15.6.2"
 	},
 	"peerDependencies": {
 		"react": "^16.0.0"
